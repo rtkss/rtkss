@@ -3,10 +3,10 @@
 ### 👨‍💻 Full-Stack Software Engineer
 Focusing on building scalable web applications and SaaS platforms.
 
-- 🛠️ Currently working on **sorfcode** & Restaurant Management SaaS
-- 🚀 Tech Stack: **Golang, Next.js, Tailwind CSS, AWS**
+- 🛠️ Currently working on Thailife Insurance
+- 🚀 Tech Stack: **Typescript,React.js,Next.js,Golang,AWS**
 - 🎯 Interested in: Web Security (OWASP) & Performance Optimization
-- 📫 Reach me: [Your Email/LinkedIn Link]
+- 📫 Reach me: rittikiert.s@gmail.com
 
 ---
 
