@@ -13,7 +13,7 @@ Focusing on building scalable web applications and SaaS platforms.
 ### My Skill Set
 
 **Frontend**
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,css,html,js,ts,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,materialui,bootstrap,css,html)](https://skillicons.dev)
 
 **Backend**
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,go,nginx,postgres)](https://skillicons.dev)
