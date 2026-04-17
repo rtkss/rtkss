@@ -1,7 +1,7 @@
 # Hi there, I'm rtkss 👋
 
 ### 👨‍💻 Full-Stack Software Engineer
-Focusing on building scalable web applications and SaaS platforms.
+Focusing on building scalable web applications and web security.
 
 - 🛠️ Currently working on Thailife Insurance
 - 🚀 Tech Stack: **Typescript,React.js,Next.js,Golang,AWS**
