@@ -10,6 +10,13 @@ Focusing on building scalable web applications and SaaS platforms.
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rtkss&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtkss&layout=compact&theme=tokyonight)
+### My Skill Set
+
+**Frontend**
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,css,html,js,ts,tailwind)](https://skillicons.dev)
+
+**Backend**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,go,nginx,postgres)](https://skillicons.dev)
+
+**DevOps**
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,git,docker)](https://skillicons.dev)
